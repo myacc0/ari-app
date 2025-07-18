@@ -1,0 +1,7 @@
+Installing Asterisk on Ubuntu
+https://voip.ekzorchik.ru/2023/07/13/we-raise-asterisk-20-on-ubuntu-22-04-lts-server/
+https://computingforgeeks.com/install-asterisk-20-lts-on-ubuntu/
+
+Asterisk ARI interface
+https://docs.asterisk.org/Configuration/Interfaces/Asterisk-REST-Interface-ARI/
+
