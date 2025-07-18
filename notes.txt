@@ -5,3 +5,10 @@ https://computingforgeeks.com/install-asterisk-20-lts-on-ubuntu/
 Asterisk ARI interface
 https://docs.asterisk.org/Configuration/Interfaces/Asterisk-REST-Interface-ARI/
 
+RUN app on terminal:
+mvn clean package exec:java -Dexec.mainClass=demo.asterisk.AsteriskClient
+
+IDEA:
+1. create Maven run configuration
+2.add command to Run field:
+    clean package exec:java -Dexec.mainClass=demo.asterisk.AsteriskClient
